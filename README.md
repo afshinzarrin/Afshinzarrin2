@@ -8,3 +8,4 @@ first fates
 69
 hello
 night final
+start
