@@ -9,3 +9,4 @@ first fates
 hello
 night final
 start
+50 score
