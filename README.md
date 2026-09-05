@@ -3,12 +3,4 @@ test
 test2
 night 37
 last night
-first fates
-13.5
-69
-hello
-night final
-start
-50 score
-Best
 good
