@@ -5,9 +5,4 @@ night 37
 last night
 good
 lfg
-very posobil
-best
-fuckdup shodam
-shodam
-g nn 
-gnob
+very
