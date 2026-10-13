@@ -5,8 +5,3 @@ night 37
 last night
 good
 lfg
-very
-ffff
-juuigy
-gkjj
-ukf
