@@ -4,8 +4,3 @@ Goooood
 Best
 nice
 booo
-dss
-CDD
-hufvg
-Byyy
-Vrr
